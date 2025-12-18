@@ -1,4 +1,4 @@
-**Tags**: #CSS #Docker #JavaScript #Markdown #Nextjs #Node #React #Tailwind #TypeScript #tailwind
+**Tags**: #CSS #Database #Docker #JavaScript #Markdown #Nextjs #Node #React #Tailwind #TypeScript #tailwind
 
 #TailwindMastery # TailwindMastery
 
