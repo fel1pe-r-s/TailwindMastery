@@ -35,5 +35,17 @@
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
-  }
+  },
+  "description": "**Internal Path**: `01_Projetos/TailwindMastery`",
+  "keywords": [
+    "css",
+    "docker",
+    "javascript",
+    "markdown",
+    "nextjs",
+    "node",
+    "react",
+    "tailwind",
+    "typescript"
+  ]
 }
